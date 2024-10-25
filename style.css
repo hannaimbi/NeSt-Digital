@@ -1,0 +1,43 @@
+.mydrp{
+    list-style: none;
+}
+.container{
+    margin: 0px;
+    justify-content: space-around;
+    gap: 10px;
+    padding-right: 10px;
+}
+a{
+    color: black;
+    text-decoration: none;
+
+}
+.carousel-inner{
+    margin: 40px;
+    width: auto;
+    height: 1200px;
+    border-radius: 30px;
+}
+contact-info{
+    background-color: #f1f1f1;
+    border-radius: 8px;
+    box-shadow: 0 4px 8px rgba(0, 0, 0, 0.1);
+    padding: 20px;
+   margin: 50px;
+}
+
+.contact-info h2{
+    text-align: center;
+    color: #333;
+    background-color: rgb(244, 250, 255);
+    border-radius: 2px;
+    margin: 0px;
+    padding: 20px;
+}
+.contact-info h3{
+    text-align: center;
+    background-color: rgb(244, 250, 255);
+    color: #333;
+    margin: 0px;
+    padding: 30px;
+}
